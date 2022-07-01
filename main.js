@@ -1,0 +1,1 @@
+window.alert("I have made this app for those who want to go to dubai, those who want to study the tourism in Dubai and those who want increase it.");

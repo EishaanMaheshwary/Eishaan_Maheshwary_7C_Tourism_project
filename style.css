@@ -1,0 +1,114 @@
+
+html {
+    scroll-behavior: smooth;
+   }
+   
+   #map iframe
+   {
+       width: 50%;
+       float: left;
+       padding-top: 5px;
+   }
+   
+   .contact_1 h3
+   {
+       display: inline;
+   }
+   .contact_1 a
+   {
+       text-shadow: none;
+   }
+   
+   #footer{
+     height: 20px;
+     background-color:white;
+     }
+   
+   input
+   {
+       background: grey
+   }
+   
+   .announcement{
+   width: 100%;
+   height: 30px;
+   }
+   
+   #marqueeStyle{
+     width:100%;
+     direction:right;
+     height: 25px;
+     color: beige;
+     font-size:120%;
+   }
+   
+   #video{
+     width:100%;
+     height:500px;
+     border: none;
+   }
+   
+   /* Clearfix (clear floats) */
+   .row::after {
+     content: "";
+     clear: both;
+     display: table;
+   } 
+   .img-a{
+    height: 50px;
+   }
+   
+   .travel_mainDiv
+   {
+     float: left;
+     width: 25%;
+     padding: 5px;
+     border: 1px solid #c7c7c7;
+      
+   }
+   
+   
+   .travel_mainDiv hr
+   {
+       width: 100%; 
+   }
+   
+   .travel_mainDiv h5 , .travel_mainDiv p
+   {
+   margin-left: 20px;
+   }
+   
+   
+   #achievementsID{
+    padding-bottom: 10px;
+   }
+   
+   .movie_head
+   {
+       font-size: 20px;
+       padding: 6px 22px;
+       border-radius: 10px;
+       margin-bottom: 15px;
+       width: 100%;
+       display: inline-block;
+       border: 0.5px solid black;
+   }
+   
+   .movie_head i
+   {
+   float: right;
+   }
+   
+   .movie_text span
+   {
+   color: #ff7700;
+   }
+   #school_achievement1,#school_achievement2{
+    text-align: center;
+    border:0.5px solid black;
+   }
+   .item{
+    text-align: center;
+    margin-left: 640px;
+   }
+  
